@@ -12,6 +12,8 @@ cd /var/www/html
 git clone https://github.com/yscoma/homepage.git
 cd homepage
 mv * ../
+cd ..
+rm -fR homepage
 
 chown -R apache:root /var/www/html
 fi
