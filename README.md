@@ -10,6 +10,7 @@
 > 7. 검토: 기본
 
 
+ <img src="images/att/IMAGE01.jpg" width="45%" height="30%" alt="IMAGEk"></img><br/>
  
 <pre><code class='LANG'>
 #### 고급 세부 정보 : 사용자 데이터 항목란
