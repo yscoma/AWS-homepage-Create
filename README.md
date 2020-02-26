@@ -14,7 +14,7 @@
 #### 고급 세부 정보 : 사용자 데이터 항목란
 <hr/>
 
-	<img src="images/att/IMAGE01.jpg" width="80%" height="100%" alt="IMAGE01"></img><br/>
+ <img src="images/att/IMAGE01.jpg" width="80%" height="100%" alt="IMAGE01"></img><br/>
 
 	#!/bin/sh 
 	sudo yum -y update
