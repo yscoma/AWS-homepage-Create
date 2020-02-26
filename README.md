@@ -10,7 +10,11 @@
 > 7. 검토: 기본
 
 
+<pre><code class='LANG'>
  <img src="images/att/IMAGE01.jpg" width="100%" height="100%" alt="IMAGEk"></img><br/>
+  </code>
+</pre>
+ 
  
 <pre><code class='LANG'>
 #### 고급 세부 정보 : 사용자 데이터 항목란
