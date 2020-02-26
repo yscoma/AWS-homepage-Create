@@ -1,6 +1,11 @@
-TEST Home Page Create
+# AWS TEST Home Page Create
 
-#!/bin/sh
+
+EC2에 다음과 같이 입력 
+
+
+```
+#!/bin/sh 
 sudo yum -y update
 sudo yum -y install httpd git
 sudo chkconfig httpd on
@@ -17,3 +22,5 @@ rm -fR homepage
 
 chown -R apache:root /var/www/html
 fi
+
+```
