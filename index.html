@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
 <!--
 	Dimension by HTML5 UP
-	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
@@ -26,6 +25,12 @@
 							<div class="inner">
 								<h1>AWS로 초간단 홈페이지 만들기</h1>
 								<p>초 간단 홈페이지 만들기 입니다.</p>
+								<p id="serIP" />
+								<script>
+									var ip = location.host;
+									var el_down = document.getElementById("serIP"); 
+									el_down.innerHTML = "Server IP = " + "'" + ip + "'"; 
+								</script>
 							</div>
 						</div>
 						<nav>
